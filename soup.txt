@@ -1,0 +1,25 @@
+<article class="job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x" data-test="JobTile" data-test-key="1743607315410718720" data-v-472a8b92=""><!-- --> <!-- --> <div class="d-flex job-tile-header" data-v-472a8b92=""><div class="d-flex flex-column job-tile-header-line-height flex-1 mr-4 mb-3 flex-wrap" data-test="JobTileHeader" data-v-1d302490="" data-v-472a8b92=""><small class="text-light mb-1" data-v-1d302490=""><span data-v-1d302490="">Posted</span> <span data-v-1d302490="">16 minutes ago</span></small> <div class="air3-line-clamp-wrapper" data-ev-sublocation="!line_clamp" data-test="UpCLineClamp" data-v-1d302490="" style="--lines: 2; --line-clamp-expanded-height: false; --line-clamp-line-height: undefinedpx;"><!-- --> <div class="air3-line-clamp is-clamped" id="air3-line-clamp-4" tabindex="-1"><h2 class="h5 mb-0 mr-2 job-tile-title" data-v-1d302490=""><a class="up-n-link" data-test="UpLink" data-v-1d302490="" href="/jobs/Research-List-ADVERTISING-Companies-LinkedIn_~0184787b06e10c1a37/">Research List of ADVERTISING Companies on LinkedIn</a></h2></div> <!-- --></div></div> <div class="d-flex job-tile-actions" data-v-472a8b92=""><!-- --> <!-- --></div></div> <div data-v-472a8b92=""><div data-test="JobTileDetails" data-v-472a8b92=""><!-- --> <ul class="job-tile-info-list text-base-sm mb-4" data-test="JobInfoFeatures"><li data-test="job-type-label"><strong>Fixed price</strong></li> <li data-test="experience-level"><strong>Intermediate</strong></li> <li data-test="is-fixed-price"><strong class="mr-1">Est. budget:</strong> <strong>
+      $300.00
+    </strong></li> <!-- --></ul> <div class="air3-line-clamp-wrapper clamp text-body-sm mb-3" data-ev-sublocation="!line_clamp" data-test="UpCLineClamp JobDescription" style="--lines: 2; --line-clamp-expanded-height: false; --line-clamp-line-height: undefinedpx;"><!-- --> <div class="air3-line-clamp is-clamped" id="air3-line-clamp-5" tabindex="-1"><p class="mb-0">ADVERTISERS RESEARCH - GOOGLE SHEETS
+
+I will give you access to a worksheet with a list of companies/publishers. Your responsibility will be to research each of the companies on LinkedIn, and input results for:
+
+- LISTED OR NOT LISTED - *is the company public and listed on a stock exchange, or is it private
+- LINKEDIN URL
+- # OF STAFF
+- CEO
+- C-LEVEL 2
+- FOUNDER 1
+- FOUNDER 2
+
+More Details:
+
+1) you will receive access to the worksheet via Google Drive
+2) you must work directly with the worksheet provided
+3) the job will be broken into THREE milestones
+
+MILESTONE 1 = complete 30% of the task -- Sunday, Jan 7, 2024 @ 7pm CET
+MILESTONE 2 = complete 60% of the task -- Tuesday, Jan 9, 2024 @ 7pm CET
+MILESTONE 3 = complete 100% of the task -- Wednesday, Jan 10, 2024 @ 7pm CET</p></div> <!-- --></div> <div class="air3-token-container" data-test="TokenClamp JobAttrs" data-v-8233a7f8=""><!-- --> <span class="air3-token" data-test="token" data-v-8233a7f8=""><span class="highlight-color" data-v-8233a7f8="">Data Scraping</span></span><span class="air3-token" data-test="token" data-v-8233a7f8=""><span class="" data-v-8233a7f8="">Lead Generation</span></span><span class="air3-token" data-test="token" data-v-8233a7f8=""><span class="" data-v-8233a7f8="">Online Research</span></span><span class="air3-token" data-test="token" data-v-8233a7f8=""><span class="" data-v-8233a7f8="">Company Research</span></span><span class="air3-token d-none" data-test="token" data-v-8233a7f8=""><span class="" data-v-8233a7f8="">Microsoft Excel</span></span><span class="air3-token d-none" data-test="token" data-v-8233a7f8=""><span class="" data-v-8233a7f8="">Contact List</span></span><span class="air3-token d-none" data-test="token" data-v-8233a7f8=""><span class="" data-v-8233a7f8="">Data Entry</span></span> <span class="air3-token" data-v-8233a7f8="">
+    +3
+  </span></div> <!-- --> <!-- --></div> <!-- --></div></article>
