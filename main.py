@@ -19,25 +19,25 @@ bot = telebot.TeleBot('6470470662:AAFZNbPryFh6iseDwTtKZXwo1Awh54v3gJQ')
     # "Description": opis
 
 
-
+@bot.message_handler(commands=['start', 'scrape'])
 def message_sender(message):
     while True:
-        item = scrapesite()
-        bot.send_message(message.chat.id, f"""Название: {item['Name']}
-Оплата: {item['Payment']}
-Сложность: {item['Difficulty']}
-Кол-во предложений: {item['Proposals']}
-Тип проекта: {item['Project Type']}
-Ссылка: {item['Url']}
-Описание: {item['Description']}
-        """)
-        time.sleep(60)
+        resultscrape = scrapesite()
+        if resultscrape is not None and 'Name' in resultscrape:
+            item = resultscrape
+            bot.send_message(message.chat.id, f"""Название: {item['Name']}
+    Оплата: {item['Payment']}
+    Сложность: {item['Difficulty']}
+    Кол-во предложений: {item['Proposals']}
+    Тип проекта: {item['Project Type']}
+    Ссылка: {item['Url']}
+    Описание: {item['Description']}
+            """)
+        else:
+            pass
+        time.sleep(15)
 
 
-@bot.message_handler(commands=['start', 'scrape'])
-def start(message):
-    x = threading.Thread(target=message_sender, args=(message,))
-    x.start()
 
 
 if __name__ == "__main__":

@@ -30,6 +30,8 @@ def scrapesite():
     try:
         element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "article.job-tile")))
         element_html = element.get_attribute('outerHTML')
+    except (Exception, AttributeError) as e:
+        return None
     finally:
         driver.quit()
 
@@ -46,7 +48,7 @@ def scrapesite():
     with open ('tempid.txt', 'r') as file:
         temp_id = file.read()
     if id == temp_id:
-        sys.exit()
+        return None
     else:
         with open ('tempid.txt', 'w') as file:
             file.write(str(id))
